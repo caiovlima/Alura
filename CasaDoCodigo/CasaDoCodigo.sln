@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aulas", "Aulas", "{6474456B-3094-4366-B537-73466B93B359}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula1", "Aula1", "{DB8DFF59-3111-4662-AA62-AE4381A34539}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "depois", "depois", "{852D9B19-4B78-4ECC-BFD7-96787031D41A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasaDoCodigo.aula1.depois", "Aulas\Aula1\depois\CasaDoCodigo\CasaDoCodigo.aula1.depois.csproj", "{06785B58-4AC5-4AEF-8DAE-513A66C02497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06785B58-4AC5-4AEF-8DAE-513A66C02497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06785B58-4AC5-4AEF-8DAE-513A66C02497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06785B58-4AC5-4AEF-8DAE-513A66C02497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06785B58-4AC5-4AEF-8DAE-513A66C02497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB8DFF59-3111-4662-AA62-AE4381A34539} = {6474456B-3094-4366-B537-73466B93B359}
+		{852D9B19-4B78-4ECC-BFD7-96787031D41A} = {DB8DFF59-3111-4662-AA62-AE4381A34539}
+		{06785B58-4AC5-4AEF-8DAE-513A66C02497} = {852D9B19-4B78-4ECC-BFD7-96787031D41A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FED210B-3460-45CF-9C4D-877F0D63546F}
+	EndGlobalSection
+EndGlobal
