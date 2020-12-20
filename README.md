@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/caiovlima)](https://github.com/caiovlima) · [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioviniciuslima/)](https://www.linkedin.com/in/caioviniciuslima/) · [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatocaiovlimat@gmail.com)](mailto:contatocaiovlima@gmail.com)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/caiovlima/Alura](https://github.com/caiovlima/Alura)
 
 
 
