@@ -65,16 +65,16 @@
 ## About The Project
 
 Each folder contains a specific topic were i learned:
-* [Alura_InicianteEmProgramacao](https://github.com/caiovlima/Alura/Alura_InicianteEmProgramacao) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+* [Alura_InicianteEmProgramacao](https://github.com/caiovlima/Alura/tree/master/Alura_InicianteEmProgramacao) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-* [AluraCar](https://github.com/caiovlima/Alura/AluraCar) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+* [AluraCar](https://github.com/caiovlima/Alura/tree/master/AluraCar) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-* [CasaDoCodigo](https://github.com/caiovlima/Alura/CasaDoCodigo) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code> 
+* [CasaDoCodigo](https://github.com/caiovlima/Alura/tree/master/CasaDoCodigo) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code> 
 
-* [DataScience](https://github.com/caiovlima/Alura/DataScience) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+* [DataScience](https://github.com/caiovlima/Alura/tree/master/DataScience) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 
-* [Trilha_CSharp_Alura](https://github.com/caiovlima/Alura/Thila_CSharp_Alura) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> 
+* [Trilha_CSharp_Alura](https://github.com/caiovlima/Alura/tree/master/Trilha_CSharp_Alura) - <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> 
 
 
 
